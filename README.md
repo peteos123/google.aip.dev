@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/aip-dev/google.aip.dev)
+
 # API Improvement Proposals
 
 **TL;DR:** AIPs are lots of documents on how Google does APIs.
